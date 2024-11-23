@@ -1,13 +1,13 @@
-<h1>Magical Arena Game<h1>
+<h1>Magical Arena Game</h1>
 
-This is a simple game simulation of a Magical Arena where two players battle against each other in a turn-based match. Each player has three key attributes: health, strength, and attack. Players take turns attacking each other until one of the players' health reaches 0. The game simulates the attack and defense mechanics based on random dice rolls, and the match ends when a player's health drops to 0.
+  This is a simple game simulation of a Magical Arena where two players battle against each other in a turn-based match. Each player has three key attributes: health, strength, and attack. Players take turns attacking each other until     one of the players' health reaches 0. The game simulates the attack and defense mechanics based on random dice rolls, and the match ends when a player's health drops to 0.
 
 Features:
 
-Player Attributes: Each player has health, strength, and attack.
-Dice Rolls: Both players roll a dice on each turn to determine the damage dealt and defended.
-Turn-Based System: The player with lower health attacks first.
-Match Outcome: The game ends when a player's health reaches 0.
+  Player Attributes: Each player has health, strength, and attack.
+  Dice Rolls: Both players roll a dice on each turn to determine the damage dealt and defended.
+  Turn-Based System: The player with lower health attacks first.
+  Match Outcome: The game ends when a player's health reaches 0.
 
 Problem Statement:
 
