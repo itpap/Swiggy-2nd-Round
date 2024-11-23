@@ -1,0 +1,26 @@
+{
+    "name": "magical-arena-game",
+    "version": "1.0.0",
+    "description": "A simulation of a Magical Arena where players battle each other based on dice rolls and attributes.",
+    "main": "index.js",
+    "scripts": {
+      "start": "node index.js",
+      "test": "mocha test.js"
+    },
+    "author": "Your Name",
+    "license": "MIT",
+    "dependencies": {},
+    "devDependencies": {
+      "mocha": "^10.0.0"
+    },
+    "keywords": [
+      "game",
+      "arena",
+      "simulation",
+      "nodejs"
+    ],
+    "engines": {
+      "node": ">=14.0.0"
+    }
+  }
+  
